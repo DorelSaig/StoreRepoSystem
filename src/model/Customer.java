@@ -1,6 +1,6 @@
 package model;
 
-//OOP Final Project - Dorel Saig 308065176	& Osnat Levy 311253306 
+//OOP Final Project - Dorel Saig 
 
 import java.io.IOException;
 import java.io.RandomAccessFile;
